@@ -4,7 +4,7 @@
 
 ### MERN Stack Developer | RESTful APIs | MongoDB | Node.js & Express.js
 
-[![GitHub followers](https://img.shields.io/github/followers/Zuhran?label=Follow&style=social)](https://github.com/Zuhran)
+[![GitHub followers](https://img.shields.io/github/followers/Zuhran110?label=Follow&style=social)](https://github.com/Zuhran110)
 
 </div>
 
@@ -68,14 +68,14 @@ UK-based online accounting firm providing tax filing and accounting services
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuhran&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhran&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhran110&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhran110&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 📫 How to Reach Me
 
 - 📧 Email: [m.zuhran.yousaf@gmail.com](mailto:m.zuhran.yousaf@gmail.com)
-- 🐙 GitHub: [github.com/Zuhran](https://github.com/Zuhran)
+- 🐙 GitHub: [github.com/Zuhran110](https://github.com/Zuhran110)
 - 📍 Location: Islamabad, Pakistan
 
 ---
@@ -84,6 +84,6 @@ UK-based online accounting firm providing tax filing and accounting services
 
 ### "Clean code always looks like it was written by someone who cares." - Robert C. Martin
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zuhran&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Zuhran110&color=brightgreen)
 
 </div>
